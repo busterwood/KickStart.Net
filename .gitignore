@@ -10,3 +10,7 @@ _ReSharper.*
 UnitTest-Results.xml
 packages/
 .vs
+_NCrunch*
+project.lock.json
+artifacts/
+TestResult.xml
